@@ -34,12 +34,11 @@ Made by @BX_Botz
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📫 Updates', url='https://telegram.me/BX_Botz'),
-        InlineKeyboardButton('🤖 Support', url='https://telegram.me/BxSupport')
+        InlineKeyboardButton('🤖 Bot Updates', url='https://telegram.me/BX_Botz'),
+        InlineKeyboardButton('👥 Support Group', url='https://telegram.me/BxSupport')
         ],[
         InlineKeyboardButton('⚙️Help', callback_data='help'),
-        InlineKeyboardButton('🔰About', callback_data='about'),
-        InlineKeyboardButton('🔒Close', callback_data='close')
+        InlineKeyboardButton('🔰About', callback_data='about')
         ]]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
