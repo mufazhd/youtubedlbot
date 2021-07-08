@@ -44,14 +44,14 @@ Made by @BX_Botz
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Home', callback_data='home'),
-        InlineKeyboardButton('About', callback_data='about'),
-        InlineKeyboardButton('Close', callback_data='close')
+        InlineKeyboardButton('🏠Home', callback_data='home'),
+        InlineKeyboardButton('🔰About', callback_data='about'),
+        InlineKeyboardButton('🔒Close', callback_data='close')
         ]]
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🏠 Home', callback_data='home'),
+        InlineKeyboardButton('🏠Home', callback_data='home'),
         InlineKeyboardButton('⚙️Help', callback_data='help'),
         InlineKeyboardButton('🔒Close', callback_data='close')
         ]]
