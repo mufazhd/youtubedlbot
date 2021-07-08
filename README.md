@@ -1,4 +1,4 @@
-# YouTube-Downloader
+# YouTube Downloader
 
 A Simple YouTube Downloader Bot With Permenent Thumbnail Support
 
