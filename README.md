@@ -1,6 +1,6 @@
 # YouTube-Downloader
 
-A simple YouTube downloader bot with permenent thumbnail support
+A Simple YouTube Downloader Bot With Permenent Thumbnail Support
 
 # Deploy To Heroku
 
