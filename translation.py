@@ -2,10 +2,10 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 class Translation(object):
 
-    START_TEXT = """
-Hello {} , I'am a simple youtube video link to telegram file or media uploader bot with permanent thumbnail support.
+    START_TEXT = """ 
+Hai {} , \n\n`I Will Convert Youtube Link to Video/File & Mp3`. \n\n`For more details Press` /help.
 
-Made by @BX_Botz
+👲 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :** [ʙx ʙᴏᴛᴢ](https://telegram.me/BX_Botz)
 """
     HELP_TEXT = """
 <b><u>Link to Media or File</u></b>
