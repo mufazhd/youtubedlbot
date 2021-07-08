@@ -56,8 +56,8 @@ Made by @BX_Botz
         InlineKeyboardButton('🔒Close', callback_data='close')
         ]]
     )
-    BLOCK_LIST_TEXT = "This url is blocked so I can not upload this URL.\n\nUse @FnURLUploadBot"
-    FORMAT_SELECTION = """<b>Select the desired format:</b> <a href='{}'>file size might be approximate</a>
+    BLOCK_LIST_TEXT = "I can't upload this URL.\n\nUse @BXUploaderV2Bot"
+    FORMAT_SELECTION = """<b>Select The Desired Format:</b> <a href='{}'>file size might be approximate</a>
     
 Send your custum thumbnail if required.
 You can use /delthumb to delete the auto-generated thumbnail."""
